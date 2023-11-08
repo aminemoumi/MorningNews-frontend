@@ -1,5 +1,4 @@
-## Deployment
-https://morningnews-vercel.vercel.app/
+
 
 # MorningNews - Frontend
 
